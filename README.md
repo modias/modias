@@ -8,9 +8,9 @@ Driven by building intelligent, data-driven software and AI applications that so
 ---
 
 ## 🚀 What I'm Working On
-- [cite_start]🎓 Pursuing a **B.S. in Data Science** at the University of North Carolina at Charlotte[cite: 4, 5].
+- 🎓 Pursuing a **B.S. in Data Science** at the University of North Carolina at Charlotte[cite: 4, 5].
 - 🏗️ Exploring cloud technologies, Azure AI, and machine learning systems.
-- [cite_start]💻 Developing data-driven architectures and full-stack web applications[cite: 18, 20].
+- 💻 Developing data-driven architectures and full-stack web applications[cite: 18, 20].
 
 ---
 
