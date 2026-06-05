@@ -1,6 +1,6 @@
 # Hi, I'm Ashutosh Modi 👋
 
-**Data Science Student at UNC Charlotte** | Aspiring Data Engineer & Full-Stack Developer [cite: 1, 5]  
+**Data Science Student at UNC Charlotte** | Aspiring Data Engineer & Full-Stack Developer   
 Driven by building intelligent, data-driven software and AI applications that solve practical, real-world problems.
 
 [ℹ️ Portfolio/Resume] | [💼 LinkedIn](https://linkedin.com/in/ashutoshmodi4) [cite: 2] | [cite_start][📧 Email](mailto:modiashutosh15@gmail.com) [cite: 2]
@@ -30,9 +30,9 @@ Driven by building intelligent, data-driven software and AI applications that so
 ## 💻 Featured Projects
 
 ### 🧠 CareerCore — AI Career Intelligence Platform
-*Next.js • FastAPI • Python • SQLite • Groq AI • Tailwind CSS* [cite: 18]
-* **Core Concept:** A full-stack AI-powered career intelligence platform designed to help students optimize job applications through resume analysis, skill gap tracking, and interview practice[cite: 20].
-* **Data & AI Engineering:** Engineered a **weighted resume scoring algorithm** comparing extracted skills against job descriptions (55% required skills, 25% preferred, 20% quantified impact)[cite: 21]. [cite_start]Integrated Groq LLaMA 3.3 70B for automated resume bullet optimization and interview grading[cite: 22].
+*Next.js • FastAPI • Python • SQLite • Groq AI • Tailwind CSS* 
+* **Core Concept:** A full-stack AI-powered career intelligence platform designed to help students optimize job applications through resume analysis, skill gap tracking, and interview practice.
+* **Data & AI Engineering:** Engineered a **weighted resume scoring algorithm** comparing extracted skills against job descriptions (55% required skills, 25% preferred, 20% quantified impact). [cite_start]Integrated Groq LLaMA 3.3 70B for automated resume bullet optimization and interview grading[cite: 22].
 * [cite_start]**System Design:** Connected JSearch RapidAPI to stream live job listings with per-user match scoring, secured via JWT/bcrypt and LinkedIn OAuth, optimized with 10-minute server-side caching[cite: 23, 24].
 
 ### 🏠 SmartBudget — Housing Affordability Platform
