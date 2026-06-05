@@ -3,7 +3,7 @@
 **Data Science Student at UNC Charlotte** | Aspiring Data Engineer & Full-Stack Developer   
 Driven by building intelligent, data-driven software and AI applications that solve practical, real-world problems.
 
-[ℹ️ Portfolio/Resume] | [💼 LinkedIn](https://linkedin.com/in/ashutoshmodi4) | [cite_start][📧 Email](mailto:modiashutosh15@gmail.com) 
+ | [💼 LinkedIn](https://linkedin.com/in/ashutoshmodi4) | [📧 Email](mailto:modiashutosh15@gmail.com) 
 
 ---
 
