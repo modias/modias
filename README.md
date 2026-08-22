@@ -16,11 +16,11 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python, SQL, TypeScript, JavaScript, Assembly  |
+| **Languages** | Python, SQL, TypeScript  |
 | **Data & Analytics** | Pandas, NumPy, Matplotlib, Power BI, Recharts, ETL Concepts, Data Modeling  |
 | **Databases** | MySQL, Oracle SQL, PostgreSQL, SQLite, Microsoft Access  |
-| **Backend & AI** | FastAPI, Express.js, Groq AI (LLaMA 3.3 70B), REST APIs, JWT, OAuth  |
-| **Frontend** | React, Next.js, Tailwind CSS, Zustand, React Hook Form, Zod  |
+| **Backend & AI** | FastAPI, Groq AI (LLaMA 3.3 70B), REST APIs, OAuth  |
+| **Frontend** | React, Next.js, Tailwind CSS  |
 | **Tools & Dev Environment** | Git, GitHub, VS Code, PyCharm, Jupyter Notebook, IntelliJ, Eclipse, SolidWorks  |
 
 ---
