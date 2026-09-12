@@ -1,7 +1,7 @@
 # Hi, I'm Ashutosh Modi 👋
 
 **Passionate about leveraging data and analytics to solve real-world problems. Experienced in Python, SQL, data visualization, personal projects. Driven to transform complex datasets into actionable insights and build data-driven solutions that create meaningful impact.
- [💼 LinkedIn](https://linkedin.com/in/ashutoshmodi4) | [📧 Email](mailto:modiashutosh15@gmail.com) 
+ [💼 LinkedIn](https://linkedin.com/in/ashutoshmodi4) | [📧 Email](mailto:modiashutosh15@gmail.com) | | [📄 Resume](./Main_Resume%20(2).pdf)
 
 ---
 
