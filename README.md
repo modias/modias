@@ -7,7 +7,7 @@
 
 ## 📖 About Me
 
-I started at Wake Technical Community College, where I earned my Associate's in Science, before transferring to UNC Charlotte for my B.S. in Data Science. I got into this field because I kept noticing how much data goes unused across healthcare, insurance, and civic systems — I wanted to be able to take that data and turn it into something people could actually act on.
+I started at Wake Technical Community College before transferring to UNC Charlotte for my B.S. in Data Science. I got into this field because I kept noticing how much data goes unused across healthcare, insurance, and civic systems — I wanted to be able to take that data and turn it into something people could actually act on.
 
 That's shaped most of what I've worked on at UNC Charlotte. As a TA for DTSC 1301, I help 100+ students learn the Python data science workflow — Pandas, GeoPandas, and the ethics side of working with real datasets. Over the summer, I worked as a Data Steward with RWCI, a nonprofit, where I helped build a client progress tracking system in Power Apps and Power BI, turning case notes into a scoring system their team could actually use.
 
