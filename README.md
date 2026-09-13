@@ -5,6 +5,19 @@
 
 ---
 
+## 📖 About Me
+
+I started at Wake Technical Community College, where I earned my Associate's in Science, before transferring to UNC Charlotte for my B.S. in Data Science. I got into this field because I kept noticing how much data goes unused across healthcare, insurance, and civic systems — I wanted to be able to take that data and turn it into something people could actually act on.
+
+That's shaped most of what I've worked on at UNC Charlotte. As a TA for DTSC 1301, I help 100+ students learn the Python data science workflow — Pandas, GeoPandas, and the ethics side of working with real datasets. Over the summer, I worked as a Data Steward with RWCI, a nonprofit, where I helped build a client progress tracking system in Power Apps and Power BI, turning case notes into a scoring system their team could actually use.
+
+Outside of coursework, I've built projects across ICU risk monitoring, insurance analytics, and AI-assisted career tools, working across data pipelines, backend systems, and front-end interfaces.
+
+Going forward, I'm aiming for a role in data science or analytics engineering, ideally on problems with real operational impact — healthcare, public infrastructure, or nonprofit work like what I did with RWCI. I'm also looking at UNC Charlotte's Early Entry M.S. in Data Science and Business Analytics to build on that further.
+
+---
+
+
 ## 🚀 What I'm Working On
 - 🎓 Pursuing a **B.S. in Data Science** at the University of North Carolina at Charlotte.
 - 🏗️ Exploring cloud technologies, Azure AI, and machine learning systems.
